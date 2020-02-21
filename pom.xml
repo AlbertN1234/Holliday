@@ -1,0 +1,13 @@
+         <modelVerso>4.0.0</modelVersion>
+
+         <parent>
+         <groupId>com.example.maven-project</group>
+	 <artifactId>maven-project</artifactId>
+	 <version>1.0-SNAPSHOT</version>
+	 <relativePath>../pom.xml</relativePath>
+         </parent>
+
+         <artifactId>holliday</artifactId>
+	 <packaging>war</packaging>
+	 <name>holliday</name>
+	 <description>holliday.</description>
